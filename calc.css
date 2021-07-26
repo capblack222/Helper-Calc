@@ -58,3 +58,9 @@ body{
 .number{
     background-color: rgb(196, 207, 146);
 }
+
+.empty {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    cursor: initial;
+}
